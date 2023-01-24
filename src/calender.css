@@ -1,0 +1,19 @@
+body{
+    background-color: white;
+}
+.App .calender .calender_img{
+    padding-left: 10px;
+    
+    height:30px;
+    width :30px;
+    }
+ .App .calender .calender_text{
+        padding-left: 100px;
+        padding-top: 0;
+        display: inline-block;
+        
+    }
+ .side_bar{
+    transition: 0.5s;
+    }
+ 
